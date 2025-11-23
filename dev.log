@@ -1,0 +1,33 @@
+[33m[nodemon] 3.1.11[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): src/**/*[39m
+[33m[nodemon] watching extensions: ts,tsx,js,jsx[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://21.0.10.241:3000
+   - Environments: .env
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Ready in 1565ms
+ ○ Compiling / ...
+ ✓ Compiled / in 6s (991 modules)
+ GET / 200 in 6660ms
+ GET / 200 in 47ms
+ GET / 200 in 43ms
+ GET / 200 in 49ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 642ms (977 modules)
+ GET /_next/static/css/app/layout.css?v=1763862794653 404 in 841ms
+ GET /_next/static/chunks/main-app.js?v=1763862794653 404 in 39ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 35ms
+ GET /_next/static/chunks/app/page.js 404 in 33ms
+ GET / 200 in 252ms
+ GET /_next/static/chunks/main-app.js?v=1763862833375 404 in 42ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 40ms
+ GET /_next/static/chunks/app/page.js 404 in 34ms
